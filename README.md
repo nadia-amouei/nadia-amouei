@@ -21,6 +21,12 @@ I am an enthusiastic Software Engineer, motivated by a desire for learning and s
 - **Fullstack Developer** at [Mihan Web Host](https://mihanwebhost.com/) (2021 – 2024)
 - **Backend Developer** at [Favana] (2017 – 2021)
 
----
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/nadia-amouei), check out my repositories on [GitHub](https://github.com/nadia-amouei), or reach out via email at [nadiaamouei09@gmail.com](mailto:nadiaamouei09@gmail.com).
+
+## 📈 My Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=freeflyaz&theme=transparent&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
