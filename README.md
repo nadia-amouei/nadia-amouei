@@ -28,9 +28,8 @@ I am an enthusiastic Software Engineer, motivated by a desire for learning and s
 
 | Project     | Tech Stack | Repo        | Link      |
 | ---------   | ---------- | ----------- | --------- |
-| Splitease   | Next JS 14, PostgreSQL | [Github]() | [Live Demo]() |
-| LID         | Next JS 14, MongoDB    | [Github]() | [Live Demo]() |
-| Reciplease  | React, MongoDB         | [Github]() | [Demo]() |
+| Selio       | React JS, MongoDB        | [Github](https://github.com/nadia-amouei/Sellio) | 
+
 
 </div>
 */
