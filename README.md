@@ -28,8 +28,7 @@ I am an enthusiastic Software Engineer, motivated by a desire for learning and s
 
 | Project      | Tech Stack | Repo        | 
 | ---------    | ---------- | ----------- | 
-| Selio        | React JS,  | [Github](https://github.com/nadia-amouei/Sellio) | 
-|              | MongoDB    |    
+| Selio        | React JS,MongoDB  | [Github](https://github.com/nadia-amouei/Sellio) | 
 | PHPFrameWork | PHP        | [Github](https://github.com/nadia-amouei/PHPMVCFramework) | 
 
 
