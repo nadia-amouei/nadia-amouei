@@ -27,6 +27,6 @@ I am an enthusiastic Software Engineer, motivated by a desire for learning and s
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=freeflyaz&theme=transparent&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nadia-amouei&theme=transparent&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
