@@ -21,7 +21,19 @@ I am an enthusiastic Software Engineer, motivated by a desire for learning and s
 - **Fullstack Developer** at [Mihan Web Host](https://mihanwebhost.com/) (2021 – 2024)
 - **Backend Developer** at [Favana] (2017 – 2021)
 
+/*
+## 🚀 Projects
 
+<div align="center">
+
+| Project     | Tech Stack | Repo        | Link      |
+| ---------   | ---------- | ----------- | --------- |
+| Splitease   | Next JS 14, PostgreSQL | [Github]() | [Live Demo]() |
+| LID         | Next JS 14, MongoDB    | [Github]() | [Live Demo]() |
+| Reciplease  | React, MongoDB         | [Github]() | [Demo]() |
+
+</div>
+*/
 
 ## 📈 My Stats
 
