@@ -26,10 +26,10 @@ I am an enthusiastic Software Engineer, motivated by a desire for learning and s
 
 <div align="center">
 
-| Project      | Tech Stack | Repo        | 
-| ---------    | ---------- | ----------- | 
-| symfony-SocialMedia        | Symfony  | [Github](https://github.com/nadia-amouei/symfony-handson) | 
-| laravel-fifacoin        | Symfony  | [Github](https://github.com/nadia-amouei/symfony-handson) | 
+| Project      | Tech Stack |                           Repo                            | 
+| ---------    | ---------- | --------------------------------------------------------- | 
+| SocialMedia  | Symfony    | [Github](https://github.com/nadia-amouei/symfony-handson) | 
+| fifacoin     | laravel    | [Github](https://github.com/nadia-amouei/symfony-handson) | 
 | PHPFrameWork | PHP        | [Github](https://github.com/nadia-amouei/PHPMVCFramework) | 
 
 
