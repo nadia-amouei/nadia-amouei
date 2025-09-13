@@ -19,7 +19,7 @@ I am an enthusiastic Software Engineer, motivated by a desire for learning and s
 ## My Journey:
 - **Software Engineer** at [Felmo](https://felmo.de/) (2023 – 2025)
 - **Fullstack Developer** at [Mihan Web Host](https://mihanwebhost.com/) (2021 – 2023)
-- **Backend Developer** at [Favana] (2017 – 2021)
+- **Backend Developer** at Favana (2017 – 2021)
 
 
 ## 🚀 Projects
